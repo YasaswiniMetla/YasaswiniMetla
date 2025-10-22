@@ -16,17 +16,6 @@ Over time, I’ve shifted my focus from testing to **building and improving soft
 
 ---
 
-## Featured Projects
-| Project | Description | Tech Stack |
-|----------|--------------|-------------|
-| [Code Reviewer AI Assistant](https://github.com/yasaswini-m/code-review-ai-assistant) | AI tool that reviews and comments on code using LLMs | Python, OpenAI API |
-| [Git Bug Tracker CLI](https://github.com/yasaswini-m/git-bug-tracker) | Command-line bug tracker integrated with Git | Python |
-| [Debug This!](https://github.com/yasaswini-m/debug-this-python) | Debugging challenges with unit tests | Python, Pytest |
-| [AI Code Evaluation Dashboard](https://github.com/yasaswini-m/ai-code-eval-dashboard) | Web app to evaluate and score code quality | Flask, React, SQLite |
-| [Bear Chatbot](https://github.com/yasaswini-m/bear-chatbot) | Conversational AI chatbot built with Python | Python, Transformers |
-
----
-
 ## Current Focus
 - Building developer tools that evaluate and improve code quality using AI.  
 - Exploring large language models and prompt engineering for code analysis.  
