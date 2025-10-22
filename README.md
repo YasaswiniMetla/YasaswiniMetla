@@ -1,7 +1,7 @@
 # Sai Yasaswini Metla  
 Software Engineer | QA Automation | AI-Driven Development  
 
-I’m a Associate Software Engineer at GlobalLogic with a foundation in QA Automation and a growing focus on software development and AI-driven engineering.  
+I’m a Associate Software Engineer with a foundation in QA Automation and a growing focus on software development and AI-driven engineering.  
 My work has involved building test automation frameworks, reviewing and debugging large codebases, and maintaining reliable CI/CD pipelines.  
 
 Over time, I’ve shifted my focus from testing to **building and improving software systems**. I’m now working on projects that explore how **AI can evaluate, debug, and enhance code** — bridging my background in QA with my passion for software development.  
