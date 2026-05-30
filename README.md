@@ -1,29 +1,74 @@
-# Sai Yasaswini Metla  
-Software Engineer | QA Automation | AI-Driven Development  
+# Sai Yasaswini Metla
 
-I’m a Associate Software Engineer with a foundation in QA Automation and a growing focus on software development and AI-driven engineering.  
-My work has involved building test automation frameworks, reviewing and debugging large codebases, and maintaining reliable CI/CD pipelines.  
+## DevOps & Automation Engineer | CI/CD | Jenkins | Python | Docker
 
-Over time, I’ve shifted my focus from testing to **building and improving software systems**. I’m now working on projects that explore how **AI can evaluate, debug, and enhance code** — bridging my background in QA with my passion for software development.  
+Associate Software Engineer with 2+ years of experience in automation engineering, CI/CD workflows, and enterprise application support. Experienced in building and maintaining automation frameworks, optimizing development workflows, and designing Jenkins pipeline solutions from scratch.
 
----
+Currently focused on transitioning deeper into DevOps and platform engineering by building projects around:
+- CI/CD automation
+- Dockerized environments
+- Monitoring & observability
+- Infrastructure workflows
+- Developer productivity tools
 
-## Technical Skills
-**Languages:** Python, Java, C++, JavaScript (Basic)  
-**Frameworks:** Selenium, PyTest, TestNG, Flask, React, Cucumber (BDD)  
-**Tools:** Git, Jenkins, Postman, JMeter, Docker, OpenAI API  
-**Core Concepts:** Debugging, Code Review, Software Design, Agile Development, LLM Integration  
-
----
-
-## Current Focus
-- Building developer tools that evaluate and improve code quality using AI.  
-- Exploring large language models and prompt engineering for code analysis.  
-- Strengthening my full-stack development and software design experience.  
+Passionate about creating reliable engineering systems, improving deployment workflows, and exploring AI-assisted automation for modern software development.
 
 ---
 
-## Connect
-LinkedIn: [linkedin.com/in/sai-yasaswini-metla-09b9a21a2](https://www.linkedin.com/in/sai-yasaswini-metla-09b9a21a2/)  
-Email: yasaswinim02@gmail.com
+# Technical Skills
 
+## DevOps & Infrastructure
+- Jenkins
+- Git & GitHub
+- Docker
+- CI/CD Pipelines
+- Linux Basics
+- GitHub Actions *(Learning)*
+- Monitoring & Observability *(Learning)*
+
+## Programming & Automation
+- Python
+- Java
+- Selenium
+- PyTest
+- TestNG
+- Postman
+- JMeter
+
+## Additional Areas
+- Automation Framework Design
+- Workflow Optimization
+- Agile Development
+- AI-Assisted Engineering
+- Prompt Engineering
+
+---
+
+# Current Focus
+
+- Building enterprise-style CI/CD pipelines
+- Exploring Docker, monitoring stacks, and infrastructure automation
+- Learning cloud-native DevOps practices and observability engineering
+- Developing automation solutions that improve engineering productivity
+
+---
+
+# Projects
+
+## Jenkins CI/CD Pipeline POC
+Designed and implemented a Jenkins CI/CD pipeline from scratch to automate workflow validation and streamline development processes.
+
+### Highlights
+- Branch validation workflows
+- Automated execution pipelines
+- Notification integration
+- Deployment-oriented workflow design
+- CI/CD process optimization
+
+# Connect
+
+## LinkedIn
+https://www.linkedin.com/in/sai-yasaswini-metla-09b9a21a2/
+
+## Email
+yasaswinim02@gmail.com
