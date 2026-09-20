@@ -1,12 +1,10 @@
 # Sai Yasaswini Metla
 
-## DevOps & Automation Engineer | CI/CD | Jenkins | Python | Docker
+## DevOps & Platform Engineering | CI/CD | Jenkins | Docker | Cloud
 
-Associate Software Engineer with 2+ years of experience in automation engineering, enterprise application testing, and CI/CD workflows.
+Software Engineer with 2+ years of experience in enterprise software engineering, with hands-on experience in CI/CD workflows and Jenkins-based engineering solutions.
 
-I work on automation solutions and CI/CD pipeline development, with hands-on experience designing Jenkins workflows, building reusable automation components, and improving engineering processes.
-
-Currently transitioning deeper into **DevOps and Platform Engineering**, with a focus on building practical expertise in CI/CD, containerization, observability, infrastructure automation, and developer productivity.
+Currently transitioning into **DevOps and Platform Engineering**, building practical experience through hands-on projects focused on CI/CD, containerization, infrastructure automation, cloud technologies, observability, and developer productivity.
 
 ---
 
@@ -20,47 +18,44 @@ Currently transitioning deeper into **DevOps and Platform Engineering**, with a 
 - Docker
 - GitHub Actions
 - Linux
-- Monitoring & Observability
-
-### Programming & Automation
-
 - Python
-- Java
-- PyTest
-- Selenium
-- TestNG
-- Postman
-- JMeter
 
-### Engineering & Automation
+### Cloud & Infrastructure
 
-- Automation Framework Design
-- CI/CD Workflow Design
-- Test Automation
+- AWS
+- Infrastructure as Code
+- Terraform
+- Kubernetes
+- Cloud Infrastructure
+- Containerized Environments
+
+### Observability & Engineering
+
+- Monitoring & Observability
 - Quality Gates
 - Build & Deployment Validation
-- Workflow Optimization
-- AI-Assisted Engineering
+- Release Workflows
+- Developer Productivity
 
 ---
 
 ## Current Focus
 
-- Building enterprise-style CI/CD pipelines
-- Exploring Docker and containerized environments
-- Learning monitoring and observability
-- Building Infrastructure as Code projects
-- Learning cloud and Kubernetes fundamentals
-- Exploring Platform Engineering practices
-- Developing automation solutions that improve engineering productivity
+- Building production-style CI/CD pipelines
+- Developing containerized applications and infrastructure
+- Learning AWS and cloud infrastructure
+- Building Infrastructure as Code projects with Terraform
+- Learning Kubernetes and cloud-native deployment practices
+- Exploring monitoring and observability
+- Developing Platform Engineering practices
 
 ---
 
 ## Engineering Approach
 
-I enjoy building automation and engineering workflows that are **reliable, repeatable, and maintainable**.
+I enjoy building **reliable, repeatable, and maintainable engineering systems** that simplify software delivery and improve developer productivity.
 
-My current goal is to combine my automation engineering experience with **DevOps and Platform Engineering** practices to build efficient and developer-friendly engineering systems.
+My current goal is to grow into **DevOps and Platform Engineering**, with a strong focus on CI/CD, cloud infrastructure, automation of engineering workflows, and cloud-native technologies.
 
 ---
 
