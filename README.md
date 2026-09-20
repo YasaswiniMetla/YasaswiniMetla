@@ -2,73 +2,74 @@
 
 ## DevOps & Automation Engineer | CI/CD | Jenkins | Python | Docker
 
-Associate Software Engineer with 2+ years of experience in automation engineering, CI/CD workflows, and enterprise application support. Experienced in building and maintaining automation frameworks, optimizing development workflows, and designing Jenkins pipeline solutions from scratch.
+Associate Software Engineer with 2+ years of experience in automation engineering, enterprise application testing, and CI/CD workflows.
 
-Currently focused on transitioning deeper into DevOps and platform engineering by building projects around:
-- CI/CD automation
-- Dockerized environments
-- Monitoring & observability
-- Infrastructure workflows
-- Developer productivity tools
+I work on automation solutions and CI/CD pipeline development, with hands-on experience designing Jenkins workflows, building reusable automation components, and improving engineering processes.
 
-Passionate about creating reliable engineering systems, improving deployment workflows, and exploring AI-assisted automation for modern software development.
+Currently transitioning deeper into **DevOps and Platform Engineering**, with a focus on building practical expertise in CI/CD, containerization, observability, infrastructure automation, and developer productivity.
 
 ---
 
-# Technical Skills
+## Technical Skills
 
-## DevOps & Infrastructure
+### DevOps & CI/CD
+
 - Jenkins
 - Git & GitHub
-- Docker
 - CI/CD Pipelines
-- Linux Basics
-- GitHub Actions *(Learning)*
-- Monitoring & Observability *(Learning)*
+- Docker
+- GitHub Actions
+- Linux
+- Monitoring & Observability
 
-## Programming & Automation
+### Programming & Automation
+
 - Python
 - Java
-- Selenium
 - PyTest
+- Selenium
 - TestNG
 - Postman
 - JMeter
 
-## Additional Areas
+### Engineering & Automation
+
 - Automation Framework Design
+- CI/CD Workflow Design
+- Test Automation
+- Quality Gates
+- Build & Deployment Validation
 - Workflow Optimization
-- Agile Development
 - AI-Assisted Engineering
-- Prompt Engineering
 
 ---
 
-# Current Focus
+## Current Focus
 
 - Building enterprise-style CI/CD pipelines
-- Exploring Docker, monitoring stacks, and infrastructure automation
-- Learning cloud-native DevOps practices and observability engineering
+- Exploring Docker and containerized environments
+- Learning monitoring and observability
+- Building Infrastructure as Code projects
+- Learning cloud and Kubernetes fundamentals
+- Exploring Platform Engineering practices
 - Developing automation solutions that improve engineering productivity
 
 ---
 
-# Projects
+## Engineering Approach
 
-## Jenkins CI/CD Pipeline POC
-Designed and implemented a Jenkins CI/CD pipeline from scratch to automate workflow validation and streamline development processes.
+I enjoy building automation and engineering workflows that are **reliable, repeatable, and maintainable**.
 
-### Highlights
-- Branch validation workflows
-- Automated execution pipelines
-- Notification integration
-- Deployment-oriented workflow design
-- CI/CD process optimization
+My current goal is to combine my automation engineering experience with **DevOps and Platform Engineering** practices to build efficient and developer-friendly engineering systems.
 
-# Connect
+---
 
-## LinkedIn
-https://www.linkedin.com/in/sai-yasaswini-metla-09b9a21a2/
+## Connect
 
-## Email
-yasaswinim02@gmail.com
+### LinkedIn
+
+[LinkedIn](https://www.linkedin.com/in/sai-yasaswini-metla-09b9a21a2/)
+
+### Email
+
+[yasaswinim02@gmail.com](mailto:yasaswinim02@gmail.com)
